@@ -19,7 +19,7 @@ Amazon Lex is a powerful service provided by AWS used for the development of con
 - Created the chatbot from scratch with Amazon Lex (setup time: less than 5 minutes)
 - Created a role with basic permissions for Amazon Lex to call other AWS services
 - Used the default intent classification confidence score of 0.40 (meaning the chatbot needs to be at least 40% confident to provide a response)
-![GitHub Image](https://raw.githubusercontent.com/username/repo/main/images/image-name.png)
+  !(images/img.png)
 
 
 ### 2. Creating Intents
